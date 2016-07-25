@@ -12,12 +12,12 @@ The official results show that our solution of the team "CBrain" achieves one 1s
 
 Please feel free to send me emails (*jacoxu@msn.com*) if you have any problems.  
 
-[1]. Le, Q.V., Mikolov, T.: Distributed representations of sentences and documents. In:ICML. vol. 14, pp. 1188每1196 (2014)    
-[2]. Blei, D.M., Ng, A.Y., Jordan, M.I.: Latent dirichlet allocation. Journal of Machine Learning Research 3(Jan), 993每1022 (2003)    
+[1]. Le, Q.V., Mikolov, T.: Distributed representations of sentences and documents. In:ICML. vol. 14, pp. 1188-1196 (2014)    
+[2]. Blei, D.M., Ng, A.Y., Jordan, M.I.: Latent dirichlet allocation. Journal of Machine Learning Research 3(Jan), 993-1022 (2003)    
 [3]. Deerwester, S., Dumais, S.T., Furnas, G.W., Landauer, T.K., Harshman, R.: Indexing by latent semantic analysis. JASIS 41(6), 391 (1990)    
-[4]. Belkin, M., Niyogi, P.: Laplacian eigenmaps for dimensionality reduction and data representation. Neural Computation 15(6), 1373每1396 (2003)    
-[5]. He, X., Cai, D., Liu, H., Ma, W.Y.: Locality preserving indexing for document representation. In: SIGIR. pp. 96每103. ACM (2004)    
-[6]. Breiman, L.: Random forests. Machine Learning 45(1), 5每32 (2001)    
+[4]. Belkin, M., Niyogi, P.: Laplacian eigenmaps for dimensionality reduction and data representation. Neural Computation 15(6), 1373-1396 (2003)    
+[5]. He, X., Cai, D., Liu, H., Ma, W.Y.: Locality preserving indexing for document representation. In: SIGIR. pp. 96-103. ACM (2004)    
+[6]. Breiman, L.: Random forests. Machine Learning 45(1), 5-32 (2001)    
 [7]. Joachims, T.: Learning to classify text using support vector machines: Methods, theory and algorithms. Kluwer Academic Publishers (2002)    
 [8]. Scholkopf, B., Smola, A.J.: Learning with kernels: support vector machines, regularization, optimization, and beyond. MIT press (2002)    
-[9]. Freund, Y., Schapire, R.E., et al.: Experiments with a new boosting algorithm. In:ICML. vol. 96, pp. 148每156 (1996)    
+[9]. Freund, Y., Schapire, R.E., et al.: Experiments with a new boosting algorithm. In:ICML. vol. 96, pp. 148-156 (1996)    
