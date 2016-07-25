@@ -1,0 +1,2 @@
+数据标题：中文褒贬义词典v1.0（清华大学李军）
+数据网址：http://www.datatang.com/datares/go.aspx?dataid=618405
