@@ -16,7 +16,7 @@ We give an ensemble framework by integrating various feature sets, such as Parag
 
 The official results show that our solution of the team "CBrain" achieves one 1st place and one 2nd place on these targets, and the overall ranking is 4th out of 16 teams with 0.6856 F1 score.       
 
-**Team member**: [Jiaming Xu](http://jacoxu.com), Suncong Zheng, Jing Shi, Yiqun Yao, Bo Xu.    
+**Team member**: [Jiaming Xu](http://jacoxu.com/?page_id=2), Suncong Zheng, Jing Shi, Yiqun Yao, Bo Xu.    
 
 Please feel free to send me emails (*jacoxu@msn.com*) if you have any problems.  
 
