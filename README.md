@@ -2,6 +2,14 @@
 
 This is our solution for [NLPCC2016 shared task: Detecting Stance in Chinese Weibo (Task A)](http://tcci.ccf.org.cn/conference/2016/pages/page05_CFPTasks.html) 
 
+@inproceedings{xu2016ensemble,    
+  title={Ensemble of Feature Sets and Classification Methods for Stance Detection},    
+  author={Xu, Jiaming and Zheng, Suncong and Shi, Jing and Yao, Yiqun and Xu, Bo},    
+  booktitle={Natural Language Processing and Chinese Computing (NLPCC)},       
+  year={2016},    
+  publisher={Springer}    
+}    
+
 - This is a supervised task towards five targets. For each target, 600 labled Weibo texts, 600 unlabeled Weibo texts and 3,000 test Weibo texts are provided. The task is to detect the author's stance.      
 
 We give an ensemble framework by integrating various feature sets, such as Paragraph Vector (Para2vec) [1], Latent Dirichlet Allocation (LDA) [2], Latent Semantic Analysis (LSA) [3], Laplacian Eigenmaps (LE) [4] and Locality Preserving Indexing (LPI) [5], and various classification methods, such as Random Forest (RF) [6], Linear Support Vector Machines (SVM-Linear) [7], SVM with RBF Kernel (SVM-RBF) [8] and AdaBoot [9].    
